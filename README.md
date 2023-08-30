@@ -1,2 +1,3 @@
 # Ad-Viewer-AI
-(https://github.com/Falron98/Ad-Viewer-AI/blob/10465cce9f346e7f0d07ca91467da0230eda130b/AI_Ad_Viewer/Example.mp4)
+[Example_video](https://github.com/Falron98/Ad-Viewer-AI/assets/61655970/8843a7a6-73b3-4869-8afd-836a9edf1443)
+
